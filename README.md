@@ -7,7 +7,7 @@
 ・GPUのドライバのバージョンに対応したcuda  
 ・cudaのバージョンに対応したPythorch  
   
-
+  
 【ライブラリ等】  
 ・Python：3.10.6  
 ・Pillow  
