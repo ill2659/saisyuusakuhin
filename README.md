@@ -15,7 +15,7 @@
 ・transformers  
 ・diffusers  
 　　-importlib-metadata  
-  　-zipp  
+  　　　-zipp  
 ・(accelerate)  
   
 ※ importlib-metadata,zippはdiffusersインストール時に自動でインストールされます  
