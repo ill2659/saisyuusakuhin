@@ -16,6 +16,7 @@
         -importlib-metadata  
         -zipp  
 ・(accelerate)  
+  
 ※ importlib-metadata,zippはdiffusersインストール時に自動でインストールされます  
 ※accelerateはインストールしなくても動作します
 
