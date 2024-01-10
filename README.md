@@ -2,14 +2,14 @@
 
 ## プレイするためには以下の環境・ライブラリのインストールが必要です
 
-【環境】  
+__【環境】__  
 ・NVIDIAのGPU(VRAMが6GB以上)  
 ・GPUのドライバのバージョンに対応したcuda  
 ・cudaのバージョンに対応したPythorch  
   
 
     
-【ライブラリ等】  
+__【ライブラリ等】__  
 ・Python：3.10.6  
 ・Pillow  
 ・transformers  
