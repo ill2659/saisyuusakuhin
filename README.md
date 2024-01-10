@@ -14,8 +14,8 @@
 ・Pillow  
 ・transformers  
 ・diffusers  
-        -importlib-metadata  
-        -zipp  
+　　-importlib-metadata  
+  　-zipp  
 ・(accelerate)  
   
 ※ importlib-metadata,zippはdiffusersインストール時に自動でインストールされます  
